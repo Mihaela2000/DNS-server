@@ -9,7 +9,7 @@ IP-ul asociat.
 
 Programul va fi rulat:
 make
-./tema1 M hash i .in hash i .out
+./DNS M hash i .in hash i .out
 
 Specificatii:
   -> key = name
