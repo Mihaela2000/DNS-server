@@ -12,7 +12,6 @@ make
 ./tema1 M hash i .in hash i .out
 
 Specificatii:
-  -> pentru liste am folosit liste dublu inlantuite generice.
   -> key = name
   -> value = ip
 
